@@ -30,7 +30,7 @@ OpenDRIVE HD 맵 파싱부터 차로 단위 경로계획, 순수추종 횡제어
 [Repository](https://github.com/do-gongil/Autorace-COShow)
 
 ### Biogas Composition Prediction
-혐기성 소화조 운영일지로 CH4·CO2 를 예측하고, biochar 가 독립 예측인자인지 feedstock 교란의 proxy 인지 분리  
+비공개
 `pandas` `scikit-learn` `XGBoost` `Optuna` `SHAP`
 
 ### ESP32 ToF Depth Sensing
