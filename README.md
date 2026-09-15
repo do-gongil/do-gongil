@@ -46,6 +46,12 @@ VL53L8CX 8×8 ToF 센서를 ESP32-S3 에서 구동하고 시리얼 스트림을 
 
 [Repository](https://github.com/do-gongil/chess-opening-trainer)
 
+### AWS DeepRacer — Racing Line Reward Design
+레이싱 라인 추종 보상함수 설계. 예선(Spain)과 본선(Smile Speedway)은 트랙이 달라 라인 좌표와 속도 프로파일을 각각 재산출  
+`Python` `Reinforcement Learning` `Reward Shaping` `AWS DeepRacer`
+
+[Repository](https://github.com/do-gongil/deepracer_raceline)
+
 ### Screen Pair Finder
 매칭 게임 화면을 ROI 지정하여 실시간 캡처해 같은 아이콘 2개를 찾아 표시하는 툴
 `Python` `OpenCV` `Template Matching`
