@@ -21,9 +21,13 @@ Agent Skills
 OpenDRIVE HD 맵 파싱부터 차로 단위 경로계획, 순수추종 횡제어, 거동 상태기계까지 직접 구현한 자율주행 제어기  
 `Python` `NumPy` `OpenDRIVE` `Pure Pursuit` `TCP Lock-step`
 
+[Repository](https://github.com/do-gongil/IVH-VTD-controller)
+
 ### Scale-Car Autonomous Racing — ROS
 1/10 스케일 RC카 자율주행 경진대회 출전 코드 — 슬라이딩 윈도우 차선인식, LiDAR 군집 장애물 회피, AR 마커 미션 상태기계  
 `ROS Noetic` `OpenCV` `LiDAR` `Ackermann` `VESC`
+
+[Repository](https://github.com/do-gongil/Autorace-COShow)
 
 ### Biogas Composition Prediction
 혐기성 소화조 운영일지로 CH4·CO2 를 예측하고, biochar 가 독립 예측인자인지 feedstock 교란의 proxy 인지 분리  
@@ -33,9 +37,19 @@ OpenDRIVE HD 맵 파싱부터 차로 단위 경로계획, 순수추종 횡제어
 VL53L8CX 8×8 ToF 센서를 ESP32-S3 에서 구동하고 시리얼 스트림을 실시간 히트맵으로 확인하는 펌웨어  
 `C++` `ESP32-S3` `PlatformIO` `I2C` `Python`
 
+[Repository](https://github.com/do-gongil/esp32-vl53l8cx-tof)
+
 ### Chess Opening Trainer
 오프닝 이론 수와 변형을 수 트리로 학습하는 개인용 웹 — 탐색·편집·훈련 모드와 엔진 분석  
 `TypeScript` `React` `Vite` `Vitest` `WebAssembly`
+
+[Repository](https://github.com/do-gongil/chess-opening-trainer)
+
+### Screen Pair Finder
+매칭 게임 화면을 실시간 캡처해 같은 아이콘 2개를 찾아 표시하는 도우미  
+`Python` `OpenCV` `Template Matching`
+
+[Repository](https://github.com/do-gongil/pair-finder)
 
 ### ManimGL Agent Skill
 3Blue1Brown 의 ManimGL 로 수학 설명 애니메이션을 작성하는 에이전트 스킬  
