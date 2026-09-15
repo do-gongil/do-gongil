@@ -24,7 +24,7 @@ OpenDRIVE HD 맵 파싱부터 차로 단위 경로계획, 순수추종 횡제어
 
 ### ManimGL Agent Skill
 3Blue1Brown 의 ManimGL로 설명 애니메이션을 작성하는 에이전트 스킬  
-`Python` `ManimGL` `Agent Skill`
+`Python` `ManimGL` `Agent Skill` 'Plugins' 'Claude Code'
 
 [Repository](https://github.com/do-gongil/manimgl-skill)
 
