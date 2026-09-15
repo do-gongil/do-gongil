@@ -9,7 +9,7 @@ Agent Skills
 ## Background
 **2020.03 ~ 2025.02 대림대학교 미래자동차학부**
 
-**2025.03 ~ 2027.02 강원대학교 기계의용•메카트로닉스공학부**
+**2025.03 ~ 2027.02 강원대학교 기계의용•메카트로닉스공학부** 
 2025.11 ~           Digital Health Biophotonics Lab 학부 연구생
 
 ---
@@ -53,15 +53,15 @@ VL53L8CX 8×8 ToF 센서를 ESP32-S3 에서 구동하고 시리얼 스트림을 
 
 ## Tech
 
-`Python` · `C++` · `TypeScript` · `NumPy` · `pandas` · `scikit-learn`  
-`OpenCV` · `ROS` · `React` · `PlatformIO` · `Linux` · `Git`
+`Python` · `NumPy` · `pandas` · `scikit-learn`  
+`OpenCV` · `ROS` · `PlatformIO` · `Linux` · `Git`
 
 ---
 
 ## Awards & Certification
 2024 - CO-Show Autorace - COSS 협의회장상
 2025 - 춘천 AWS DeepRacer Championship - 본선 11위
-2026 - 
+2026 - (재)국제차세대융합기술학회 학부논문경진대회 - 우수논문상
 ---
 
 ## About
