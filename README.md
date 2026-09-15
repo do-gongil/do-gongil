@@ -24,16 +24,11 @@ OpenDRIVE HD 맵 파싱부터 차로 단위 경로계획, 순수추종 횡제어
 
 [Repository](https://github.com/do-gongil/IVH-VTD-controller)
 
-### AutoRace 2024 — ROS
-1/10 스케일 RC카 자율주행 경진대회 출전 코드 — 슬라이딩 윈도우 차선인식, LiDAR 군집 장애물 회피, AR 마커 미션 상태기계  
-`ROS Noetic` `OpenCV` `LiDAR` `Ackermann` `VESC`
+### ManimGL Agent Skill
+3Blue1Brown 의 ManimGL 로 수학 설명 애니메이션을 작성하는 에이전트 스킬  
+`Python` `ManimGL` `Agent Skill`
 
-[Repository](https://github.com/do-gongil/Autorace-COShow)
-
-### Biogas Composition Prediction
-비공개
-
-`pandas` `scikit-learn` `XGBoost` `Optuna` `SHAP`
+[Repository](https://github.com/do-gongil/manimgl-skill)
 
 ### ESP32 & VL53L8CX Depth Sensing
 VL53L8CX 8×8 ToF 센서를 ESP32-S3 에서 구동하고 시리얼 스트림을 실시간 히트맵으로 확인하는 펌웨어  
@@ -47,11 +42,17 @@ VL53L8CX 8×8 ToF 센서를 ESP32-S3 에서 구동하고 시리얼 스트림을 
 
 [Repository](https://github.com/do-gongil/chess-opening-trainer)
 
-### AWS DeepRacer — Racing Line Reward Design
+### AWS DeepRacer 2025 — Reinforcement Learning
 레이싱 라인 추종 보상함수 설계. 예선(Spain)과 본선(Smile Speedway)은 트랙이 달라 라인 좌표와 속도 프로파일을 각각 재산출  
 `Python` `Reinforcement Learning` `Reward Shaping` `AWS DeepRacer`
 
 [Repository](https://github.com/do-gongil/deepracer_raceline)
+
+### AutoRace 2024 — ROS Autonomous Driving
+1/10 스케일카 자율주행 경진대회 출전 코드 — 슬라이딩 윈도우 차선인식, LiDAR 군집 장애물 회피, AR 마커 미션 상태기계  
+`ROS` `OpenCV` `LiDAR` `Ackermann` `VESC`
+
+[Repository](https://github.com/do-gongil/Autorace-COShow)
 
 ### Screen Pair Finder
 매칭 게임 화면을 ROI 지정하여 실시간 캡처해 같은 아이콘 2개를 찾아 표시하는 툴
@@ -59,11 +60,10 @@ VL53L8CX 8×8 ToF 센서를 ESP32-S3 에서 구동하고 시리얼 스트림을 
 
 [Repository](https://github.com/do-gongil/pair-finder)
 
-### ManimGL Agent Skill
-3Blue1Brown 의 ManimGL 로 수학 설명 애니메이션을 작성하는 에이전트 스킬  
-`Python` `ManimGL` `Agent Skill`
+### Biogas Composition Prediction
+비공개
 
-[Repository](https://github.com/do-gongil/manimgl-skill)
+`pandas` `scikit-learn` `XGBoost` `Optuna` `SHAP`
 
 ---
 
