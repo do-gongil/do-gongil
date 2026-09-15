@@ -60,9 +60,15 @@ VL53L8CX 8×8 ToF 센서를 ESP32-S3 에서 구동하고 시리얼 스트림을 
 ---
 
 ## Awards & Certification
-2024 - CO-Show Autorace - COSS 협의회장상
-2025 - 춘천 AWS DeepRacer Championship - 본선 11위
-2026 - (재)국제차세대융합기술학회 학부논문경진대회 - 우수논문상
+**2024**
+CO-Show Autorace - COSS 협의회장상
+
+**2025**
+춘천 AWS DeepRacer Championship - 본선 11위
+
+**2026**
+(사)국제차세대융합기술학회 학부논문경진대회 - 우수논문상
+
 ---
 
 ## About
