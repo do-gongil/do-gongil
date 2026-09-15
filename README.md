@@ -32,6 +32,7 @@ OpenDRIVE HD 맵 파싱부터 차로 단위 경로계획, 순수추종 횡제어
 
 ### Biogas Composition Prediction
 비공개
+
 `pandas` `scikit-learn` `XGBoost` `Optuna` `SHAP`
 
 ### ESP32 & VL53L8CX Depth Sensing
@@ -82,7 +83,7 @@ VL53L8CX 8×8 ToF 센서를 ESP32-S3 에서 구동하고 시리얼 스트림을 
 
 ## Awards & Certification
 
-**2026**
+### 2026
 
 DSAC 2급 / ASAT 1급
 
@@ -91,12 +92,12 @@ DSAC 2급 / ASAT 1급
 HL FMA 시뮬레이션 부문 참여
 
 
-**2025**
+### 2025
 
 AWS DeepRacer Championship - **본선 11위**
 
 
-**2024**
+### 2024
 
 SEA:ME Hackathon 참여
 
