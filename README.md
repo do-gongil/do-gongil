@@ -83,25 +83,27 @@ VL53L8CX 8×8 ToF 센서를 ESP32-S3 에서 구동하고 시리얼 스트림을 
 
 ### 2026
 
-DSAC 2급 / ASAT 1급
+* DSAC 2급 / ASAT 1급
 
-(사)국제차세대융합기술학회 학부논문경진대회 - **우수논문상**
+* (사)국제차세대융합기술학회 학부논문경진대회 - **우수논문상**
 
-HL FMA 시뮬레이션 부문 참여
+* HL FMA 시뮬레이션 부문 참여
 
 
 ### 2025
 
-AWS DeepRacer Championship - **본선 11위**
+*  AWS DeepRacer Championship - **본선 11위**
 
 
 ### 2024
 
-SEA:ME Hackathon 참여
+* SEA:ME Hackathon 참여
 
-Autorace 2024 스케일카 자율주행 경진대회 - **COSS 협의회장상**
+* Autorace 2024 스케일카 자율주행 경진대회 - **COSS 협의회장상**
 
+### 2023
 
+* 자동차정비산업기사
 
 ---
 
