@@ -6,12 +6,10 @@
 ---
 
 ## Background
-**2020.03 ~ 2025.02 대림대학교 미래자동차학부**
-
+### 2020.03 ~ 2025.02 대림대학교 미래자동차학부
 2023.09 ~ 2025.02   자율주행 동아리 Daelim Autoilot
 
-**2025.03 ~ 2027.02 강원대학교 기계의용•메카트로닉스공학부** 
-
+### 2025.03 ~ 2027.02 강원대학교 기계의용•메카트로닉스공학부
 2025.11 ~           Digital Health Biophotonics Lab 학부 연구생
 
 ---
@@ -25,7 +23,7 @@ OpenDRIVE HD 맵 파싱부터 차로 단위 경로계획, 순수추종 횡제어
 [Repository](https://github.com/do-gongil/IVH-VTD-controller)
 
 ### ManimGL Agent Skill
-3Blue1Brown 의 ManimGL 로 수학 설명 애니메이션을 작성하는 에이전트 스킬  
+3Blue1Brown 의 ManimGL로 설명 애니메이션을 작성하는 에이전트 스킬  
 `Python` `ManimGL` `Agent Skill`
 
 [Repository](https://github.com/do-gongil/manimgl-skill)
