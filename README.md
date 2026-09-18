@@ -1,16 +1,14 @@
 # Lee Dohyun | 이도현
 
-자동차를 전공했으며 현재 강원대학교에서 메카트로닉스를 전공하고있습니다.
-자율주행, 영상 처리 및 AI에 관심이 있고 이에 관하여 연구를 하고 있습니다.
 
 ---
 
 ## Background
-### 2020.03 ~ 2025.02 대림대학교 미래자동차학부
-2023.09 ~ 2025.02   자율주행 동아리 Daelim Autoilot
+### 2020.03 ~ 2025.02 Div. of Automotive engineering, Daelim University College  (3.91/4.5)
+2023.09 ~ 2025.02   Daelim AutoPilot | Autonomous driving Club
 
-### 2025.03 ~ 2027.02 강원대학교 기계의용•메카트로닉스공학부
-2025.11 ~           Digital Health Biophotonics Lab 학부 연구생
+### 2025.03 ~ 2027.02 Dept. of Biomedical and Mechatronics engineering, Kangwon National University  (4.11/4.5)
+2025.11 ~           Digital Health Biophotonics Lab | Undergrate Research Assistant
 
 ---
 
@@ -67,8 +65,8 @@ VL53L8CX 8×8 ToF 센서를 ESP32-S3 에서 구동하고 시리얼 스트림을 
 
 ## Interests
 
-`Autonomous Driving` · `Motion Planning` · `Perception`  
-`Applied Machine Learning` · `Embedded Systems` · `Agent Skills`
+`Autonomous Driving` · `Robotics` · `Computer Vision` ·   
+`ML/DL` · `Embedded Systems` · `Agent Skills`
 
 ---
 
