@@ -30,7 +30,13 @@ OpenDRIVE HD 맵 파싱부터 차로 단위 경로계획, 순수추종 횡제어
 VL53L8CX 8×8 ToF 센서를 ESP32-S3 에서 구동하고 시리얼 스트림을 실시간 히트맵으로 확인하는 펌웨어  
 `C++` `ESP32-S3` `PlatformIO` `I2C` `Python`
 
-[Repository](https://github.com/do-gongil/esp32-vl53l8cx-tof)
+[Repository](https://github.com/do-gongil/vl53l8cx-tof)
+
+### ToF-RGB Coaxial Fusion
+빔스플리터로 광축을 공유시켜 VL53L8CX 8×8 깊이맵을 5MP 카메라 영상에 정렬하는 동축 융합 — 시간 동기화는 ESP32-S3 시리얼  
+`Python` `OpenCV` `ESP32-S3` `Sensor Fusion` `Calibration`
+
+[Repository](https://github.com/do-gongil/vl53l8cx-rgb-fusion)
 
 ### Chess Opening Trainer
 오프닝 이론 수와 변형을 수 트리로 학습하는 개인용 웹 — 탐색·편집·훈련 모드와 엔진 분석  
@@ -42,7 +48,7 @@ VL53L8CX 8×8 ToF 센서를 ESP32-S3 에서 구동하고 시리얼 스트림을 
 레이싱 라인 추종 보상함수 설계. 예선(Spain)과 본선(Smile Speedway)트랙 라인 좌표와 속도 프로파일 산출  
 `Python` `Reinforcement Learning` `Reward Shaping` `AWS DeepRacer`
 
-[Repository](https://github.com/do-gongil/deepracer_raceline)
+[Repository](https://github.com/do-gongil/AWS-Deepracer)
 
 ### AutoRace 2024 — ROS Autonomous Driving
 1/10 스케일카 자율주행 경진대회 출전 코드 — Sliding Window 차선인식, LiDAR 군집 장애물 회피, AR 마커 미션 반응 
