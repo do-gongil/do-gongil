@@ -1,13 +1,16 @@
 # Lee Dohyun | 이도현
 
+## Research Topic
+
+`Autonomous Driving` · `Robotics` · `Computer Vision` · `ML/DL` · `Embedded Systems` · `Agent Skills`
 
 ---
 
 ## Background
-### 2020.03 ~ 2025.02 Div. of Automotive engineering, Daelim University College  (3.91/4.5)
+### 2020.03 ~ 2025.02 Div. of Automotive engineering, Daelim University College  (GPA : 3.91/4.5)
 2023.09 ~ 2025.02   Daelim AutoPilot | Autonomous driving Club
 
-### 2025.03 ~ 2027.02 Div. of Mechanical and Biomedical, Mechatronics engineering, Kangwon National University  (4.11/4.5)
+### 2025.03 ~ 2027.02 Dept. of Mechatronics engineering, Kangwon National University  (GPA : 4.11/4.5)
 2025.11 ~           Digital Health Biophotonics Lab | Undergrate Research Assistant
 
 ---
@@ -69,13 +72,6 @@ Private
 
 ---
 
-## Interests
-
-`Autonomous Driving` · `Robotics` · `Computer Vision` ·   
-`ML/DL` · `Embedded Systems` · `Agent Skills`
-
----
-
 ## Tech
 
 `Python` · `NumPy` · `pandas` · `scikit-learn`  
@@ -93,11 +89,9 @@ Private
 
 * HL FMA 시뮬레이션 부문 참여
 
-
 ### 2025
 
 *  AWS DeepRacer Championship - **본선 11위**
-
 
 ### 2024
 
@@ -108,6 +102,10 @@ Private
 ### 2023
 
 * 자동차정비산업기사
+
+### 2021
+
+* 자동차정비기능사
 
 ---
 
