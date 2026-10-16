@@ -48,10 +48,10 @@ Designed a racing-line-following reward function; computed racing line coordinat
 
 ### AutoRace 2024 — ROS Autonomous Driving
 Competition code for a 1/10-scale autonomous driving contest — sliding-window lane detection, LiDAR clustering-based obstacle avoidance, and AR marker mission handling  
-**Result:** COSS 협의회장상  
+**Result:** COSS 협의회장상 (4th of 20 teams)  
 `ROS` `OpenCV` `LiDAR` `Ackermann` `VESC`
 
-[Repository](https://github.com/do-gongil/Autorace-COShow)
+[Repository](https://github.com/do-gongil/Autorace-COShow) · [News (전자신문)](https://www.etnews.com/20241125000390)
 
 ### ESP32 & VL53L8CX Depth Sensing
 Firmware that runs the VL53L8CX 8×8 ToF sensor on an ESP32-S3 and visualizes the serial stream as a real-time heatmap  
@@ -92,13 +92,13 @@ Tool that captures a selected ROI of a matching game screen in real time and hig
 
 ### 2025
 
-*  AWS DeepRacer Championship - **본선 11위**
+* AWS DeepRacer Championship - **본선 11위** ([Repository](https://github.com/do-gongil/AWS-Deepracer))
 
 ### 2024
 
 * SEA:ME Hackathon 참여
 
-* Autorace 2024 스케일카 자율주행 경진대회 - **COSS 협의회장상**
+* Autorace 2024 스케일카 자율주행 경진대회 - **COSS 협의회장상** ([Repository](https://github.com/do-gongil/Autorace-COShow) · [News](https://www.etnews.com/20241125000390))
 
 ### 2023
 
