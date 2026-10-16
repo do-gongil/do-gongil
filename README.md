@@ -88,7 +88,7 @@ Tool that captures a selected ROI of a matching game screen in real time and hig
 
 * (사)국제차세대융합기술학회 학부논문경진대회 - **우수논문상**
 
-* HL FMA 시뮬레이션 부문 참여
+* HL FMA[Simulation] - **한라대학교 SW중심대학사업단장상 [장려상]** ([Repository](https://github.com/do-gongil/IVH-VTD-controller))
 
 ### 2025
 
