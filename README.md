@@ -11,11 +11,17 @@
 2023.09 ~ 2025.02   Daelim AutoPilot | Autonomous driving Club
 
 ### 2025.03 ~ 2027.02 Dept. of Mechatronics engineering, Kangwon National University  (GPA : 4.11/4.5)
-2025.11 ~           Digital Health Biophotonics Lab | Undergrate Research Assistant
+2025.11 ~           Digital Health Biophotonics Lab | Undergraduate Research Assistant
 
 ---
 
-## Projects
+## Featured Projects
+
+### AI Usage Widget — Microsoft Store App
+Windows tray icon + always-on-top widget that shows Claude Code / Codex usage limits at a glance — published on the Microsoft Store  
+`C#` `WinUI 3` `MSIX` `Microsoft Store`
+
+[Microsoft Store](https://apps.microsoft.com/detail/9NN9GN3KMSWN) · [Repository](https://github.com/do-gongil/ai-usage-widget)
 
 ### HL FMA Simulation — VTD Simulation
 Autonomous driving controller built from scratch — OpenDRIVE HD map parsing, lane-level path planning, Pure Pursuit lateral control, and a behavior state machine  
@@ -24,10 +30,28 @@ Autonomous driving controller built from scratch — OpenDRIVE HD map parsing, l
 [Repository](https://github.com/do-gongil/IVH-VTD-controller)
 
 ### ManimGL Agent Skill
-Agent skill for creating explanatory animations with 3Blue1Brown's ManimGL  
+Agent skill for creating explanatory animations with 3Blue1Brown's ManimGL — environment doctor and pre-render frame snapshots included  
 `Python` `ManimGL` `Agent Skill` `Plugin` `Claude Code` `Codex`
 
 [Repository](https://github.com/do-gongil/manimgl-skill)
+
+---
+
+## Other Projects
+
+### AWS DeepRacer 2025 — Reinforcement Learning
+Designed a racing-line-following reward function; computed racing line coordinates and speed profiles for the qualifier (Spain) and final (Smile Speedway) tracks  
+**Result:** qualifier 25th, final 11th  
+`Python` `Reinforcement Learning` `Reward Shaping` `AWS DeepRacer`
+
+[Repository](https://github.com/do-gongil/AWS-Deepracer)
+
+### AutoRace 2024 — ROS Autonomous Driving
+Competition code for a 1/10-scale autonomous driving contest — sliding-window lane detection, LiDAR clustering-based obstacle avoidance, and AR marker mission handling  
+**Result:** COSS 협의회장상  
+`ROS` `OpenCV` `LiDAR` `Ackermann` `VESC`
+
+[Repository](https://github.com/do-gongil/Autorace-COShow)
 
 ### ESP32 & VL53L8CX Depth Sensing
 Firmware that runs the VL53L8CX 8×8 ToF sensor on an ESP32-S3 and visualizes the serial stream as a real-time heatmap  
@@ -35,46 +59,31 @@ Firmware that runs the VL53L8CX 8×8 ToF sensor on an ESP32-S3 and visualizes th
 
 [Repository](https://github.com/do-gongil/vl53l8cx-tof)
 
-### ToF-RGB Coaxial Fusion
-Coaxial fusion that aligns the VL53L8CX 8×8 depth map with 5MP camera images by sharing the optical axis via a beam splitter — time-synchronized over ESP32-S3 serial  
-`Python` `OpenCV` `ESP32-S3` `Sensor Fusion` `Calibration`
+### 3D Object Reconstruction — Orbbec Port (fork)
+RGB-D reconstruction pipeline (feature/ICP registration, pose graph optimization) adapted from Intel RealSense D415 to Orbbec Gemini 335L  
+`Python` `Open3D` `OpenCV` `ICP` `Pose Graph`
 
-[Repository](https://github.com/do-gongil/vl53l8cx-rgb-fusion)
-
-### Chess Opening Trainer
-Personal web app for studying opening theory and variations as a move tree — explore, edit, and training modes with engine analysis  
-`TypeScript` `React` `Vite` `Vitest` `WebAssembly`
-
-[Repository](https://github.com/do-gongil/chess-opening-trainer)
-
-### AWS DeepRacer 2025 — Reinforcement Learning
-Designed a racing-line-following reward function; computed racing line coordinates and speed profiles for the qualifier (Spain) and final (Smile Speedway) tracks  
-`Python` `Reinforcement Learning` `Reward Shaping` `AWS DeepRacer`
-
-[Repository](https://github.com/do-gongil/AWS-Deepracer)
-
-### AutoRace 2024 — ROS Autonomous Driving
-Competition code for a 1/10-scale autonomous driving contest — sliding-window lane detection, LiDAR clustering-based obstacle avoidance, and AR marker mission handling 
-`ROS` `OpenCV` `LiDAR` `Ackermann` `VESC`
-
-[Repository](https://github.com/do-gongil/Autorace-COShow)
+[Repository](https://github.com/do-gongil/3D_Object_Reconstruction)
 
 ### Screen Pair Finder
-Tool that captures a selected ROI of a matching game screen in real time and highlights pairs of identical icons
+Tool that captures a selected ROI of a matching game screen in real time and highlights pairs of identical icons  
 `Python` `OpenCV` `Template Matching`
 
 [Repository](https://github.com/do-gongil/pair-finder)
 
-### Biogas Composition Prediction
-Private
+### Private
 
-`pandas` `scikit-learn` `XGBoost` `Optuna` `SHAP`
+| Project | Summary | Stack |
+|---|---|---|
+| ToF-RGB Coaxial Fusion | VL53L8CX 8×8 depth aligned to 5MP camera images through a beam splitter, time-synced over ESP32-S3 serial | `Python` `OpenCV` `Sensor Fusion` |
+| Chess Opening Trainer | Opening study web app — move tree, explore/edit/training modes, engine analysis | `TypeScript` `React` `Vite` |
+| Biogas Composition Prediction | Anaerobic digester CH4/CO2 prediction | `pandas` `scikit-learn` `XGBoost` `Optuna` `SHAP` |
 
 ---
 
 ## Tech
 
-`Python` · `NumPy` · `pandas` · `scikit-learn`  
+`Python` · `NumPy` · `pandas` · `scikit-learn` · `C#` · `TypeScript`  
 `OpenCV` · `ROS` · `PlatformIO` · `Linux` · `Git`
 
 ---
