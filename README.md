@@ -71,14 +71,6 @@ Tool that captures a selected ROI of a matching game screen in real time and hig
 
 [Repository](https://github.com/do-gongil/pair-finder)
 
-### Private
-
-| Project | Summary | Stack |
-|---|---|---|
-| ToF-RGB Coaxial Fusion | VL53L8CX 8×8 depth aligned to 5MP camera images through a beam splitter, time-synced over ESP32-S3 serial | `Python` `OpenCV` `Sensor Fusion` |
-| Chess Opening Trainer | Opening study web app — move tree, explore/edit/training modes, engine analysis | `TypeScript` `React` `Vite` |
-| Biogas Composition Prediction | Anaerobic digester CH4/CO2 prediction | `pandas` `scikit-learn` `XGBoost` `Optuna` `SHAP` |
-
 ---
 
 ## Tech
