@@ -65,6 +65,12 @@ RGB-D reconstruction pipeline (feature/ICP registration, pose graph optimization
 
 [Repository](https://github.com/do-gongil/3D_Object_Reconstruction)
 
+### Mecanum AGV — ROS / Gazebo
+ROS Noetic package for a mecanum-wheel AGV — IR line tracing with PID, ultrasonic obstacle stop, omnidirectional teleop, Gazebo simulation  
+`ROS` `Gazebo` `Python` `PID`
+
+[Repository](https://github.com/do-gongil/mecanum-car-ros)
+
 ### Screen Pair Finder
 Tool that captures a selected ROI of a matching game screen in real time and highlights pairs of identical icons  
 `Python` `OpenCV` `Template Matching`
