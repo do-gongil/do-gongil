@@ -106,8 +106,6 @@ Tool that captures a selected ROI of a matching game screen in real time and hig
 
 * Autorace 2024 스케일카 자율주행 경진대회 - **COSS 협의회장상** ([Repository](https://github.com/do-gongil/Autorace-COShow) · [News](https://www.etnews.com/20241125000390))
 
-### 2023
-
 * 자동차정비산업기사
 
 ### 2021
@@ -118,7 +116,7 @@ Tool that captures a selected ROI of a matching game screen in real time and hig
 
 ## About
 
-I build autonomous-driving and robotics software — from HD-map-based planning and control to embedded sensing and computer vision — and ship small tools around it, including a Microsoft Store app and an agent skill for ManimGL. Currently an undergraduate research assistant at the Digital Health Biophotonics Lab, Kangwon National University. Open to collaboration.
+I am deeply interested in autonomous driving and robotics, as well as ML/DL and the use of agents in AI. I want to do research that will move the world forward.
 
 ---
 
