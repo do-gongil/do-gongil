@@ -118,7 +118,8 @@ Tool that captures a selected ROI of a matching game screen in real time and hig
 
 ## About
 
+I build autonomous-driving and robotics software — from HD-map-based planning and control to embedded sensing and computer vision — and ship small tools around it, including a Microsoft Store app and an agent skill for ManimGL. Currently an undergraduate research assistant at the Digital Health Biophotonics Lab, Kangwon National University. Open to collaboration.
 
 ---
 
-[GitHub](https://github.com/do-gongil)
+[GitHub](https://github.com/do-gongil) · [Email](mailto:dohyun@kangwon.ac.kr)
