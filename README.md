@@ -1,5 +1,12 @@
 # Lee Dohyun | 이도현
 
+
+## About
+
+I am deeply interested in autonomous driving and robotics, as well as ML/DL and the use of agents in AI. I want to do research that will move the world forward.
+
+---
+
 ## Research Topic
 
 `Autonomous Driving` · `Robotics` · `Computer Vision` · `ML/DL` · `Embedded Systems` · `Agent Skills`
@@ -7,10 +14,10 @@
 ---
 
 ## Background
-### 2020.03 ~ 2025.02 Div. of Automotive engineering, Daelim University College  (GPA : 3.91/4.5)
+### 2020.03 ~ 2025.02 Div. of Automotive engineering, Daelim University College
 2023.09 ~ 2025.02   Daelim AutoPilot | Autonomous driving Club
 
-### 2025.03 ~ 2027.02 Dept. of Mechatronics engineering, Kangwon National University  (GPA : 4.11/4.5)
+### 2025.03 ~ 2027.02 Dept. of Mechatronics engineering, Kangwon National University
 2025.11 ~           Digital Health Biophotonics Lab | Undergraduate Research Assistant
 
 ---
@@ -111,12 +118,6 @@ Tool that captures a selected ROI of a matching game screen in real time and hig
 ### 2021
 
 * 자동차정비기능사
-
----
-
-## About
-
-I am deeply interested in autonomous driving and robotics, as well as ML/DL and the use of agents in AI. I want to do research that will move the world forward.
 
 ---
 
