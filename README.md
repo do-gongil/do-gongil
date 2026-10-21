@@ -43,7 +43,7 @@ Agent skill for creating explanatory animations with 3Blue1Brown's ManimGL — e
 [Repository](https://github.com/do-gongil/manimgl-skill)
 
 ### Chess Opening Trainer — Web App
-Browser app for studying chess openings as move trees — animated opening previews as you play, drilling, optional local Stockfish analysis, and a Korean/English UI. 52 opening lines, live demo needs no install  
+Browser app for studying chess openings as move trees — animated opening previews as you play, drilling, optional local Stockfish analysis, and a Korean/English UI. 52 openings, live demo needs no install  
 `React` `TypeScript` `Vite` `chess.js`
 
 [Live Demo](https://do-gongil.github.io/chess-opening-trainer/) · [Repository](https://github.com/do-gongil/chess-opening-trainer)
